@@ -12,6 +12,7 @@
             "TITLE": "Hallo, {{user.display_name}} von {{user.account_name}}"
         },
         "SUBMIT_BUTTON_LABEL": "einreichen",
-        "SAVED_BUTTON_LABEL": "Gerettet"
+        "SAVED_BUTTON_LABEL": "Gerettet",
+        "ADD_KEY": "Schlüssel hinzufügen"
     }
 }
