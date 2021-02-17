@@ -1,17 +1,17 @@
 {
-  "DEMO": {
-      "MERCHANT_ID": {
-          "LABEL": "Händler-ID",
-          "HELPER_TEXT": "Geben Sie Ihre Händleridentifikationsnummer ein"
-      },
-      "COUNTRY_SELECT": {
-          "LABEL": "Land auswählen",
-          "HELPER_TEXT": "Wählen Sie eine der Marktlandlisten aus"
-      },
-      "PROFILE_TOOLTIP": {
-          "TITLE": "Hallo, {{user.display_name}} von {{user.account_name}}"
-      },
-      "SUBMIT_BUTTON_LABEL": "einreichen",
-      "SAVED_BUTTON_LABEL": "Gerettet"
-  }
+    "DEMO": {
+        "MERCHANT_ID": {
+            "LABEL": "Händler-ID",
+            "HELPER_TEXT": "Geben Sie Ihre Händleridentifikationsnummer ein"
+        },
+        "COUNTRY_SELECT": {
+            "LABEL": "Land auswählen",
+            "HELPER_TEXT": "Wählen Sie eine der Marktlandlisten aus"
+        },
+        "PROFILE_TOOLTIP": {
+            "TITLE": "Hallo, {{user.display_name}} von {{user.account_name}}"
+        },
+        "SUBMIT_BUTTON_LABEL": "einreichen",
+        "SAVED_BUTTON_LABEL": "Gerettet"
+    }
 }
