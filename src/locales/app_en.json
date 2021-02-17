@@ -12,6 +12,7 @@
             "TITLE": "Hello, {{user.display_name}} from {{user.account_name}}"
         },
         "SUBMIT_BUTTON_LABEL": "Submit",
-        "SAVED_BUTTON_LABEL": "Saved"
+        "SAVED_BUTTON_LABEL": "Saved",
+        "ADD_KEY": "Add key"
     }
 }
