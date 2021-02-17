@@ -1,17 +1,17 @@
 {
-  "DEMO": {
-      "MERCHANT_ID": {
-          "LABEL": "Merchant ID",
-          "HELPER_TEXT": "Enter your merchant identification number"
-      },
-      "COUNTRY_SELECT": {
-          "LABEL": "Select Country",
-          "HELPER_TEXT": "Select one of the market country list"
-      },
-      "PROFILE_TOOLTIP": {
-          "TITLE": "Hello, {{user.display_name}} from {{user.account_name}}"
-      },
-      "SUBMIT_BUTTON_LABEL": "Submit",
-      "SAVED_BUTTON_LABEL": "Saved"
-  }
+    "DEMO": {
+        "MERCHANT_ID": {
+            "LABEL": "Merchant ID",
+            "HELPER_TEXT": "Enter your merchant identification number"
+        },
+        "COUNTRY_SELECT": {
+            "LABEL": "Select Country",
+            "HELPER_TEXT": "Select one of the market country list"
+        },
+        "PROFILE_TOOLTIP": {
+            "TITLE": "Hello, {{user.display_name}} from {{user.account_name}}"
+        },
+        "SUBMIT_BUTTON_LABEL": "Submit",
+        "SAVED_BUTTON_LABEL": "Saved"
+    }
 }
